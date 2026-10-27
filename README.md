@@ -11,7 +11,7 @@ I'm currently expanding my work in quantum computing, particularly quantum algor
 ### Technical Skills
 
 - **Programming:** Python, NumPy, SciPy, Matplotlib
-- **Quantum Computing:** Qiskit, quantum circuits, quantum algorithms, VQE, quantum optimization
+- **Quantum Computing:** Qiskit, quantum circuits, quantum algorithms, VQE, quantum optimization, quantum noise simulation, entanglement characterization
 - **Scientific Computing:** Numerical linear algebra, differential equations, Monte Carlo methods, optimization
 - **HPC:** Linux, SLURM, parallel computing
 - **Tools:** Git, GitHub, Jupyter Notebook, VS Code
@@ -26,14 +26,17 @@ I'm currently expanding my work in quantum computing, particularly quantum algor
 
 ### Selected Projects
 
-My repositories include research and implementations in:
+**Quantum Computing**
 
-- Quantum communication using Qiskit
-- Semiclassical and stochastic vacuum decay
-- Ising models and Monte Carlo simulations
-- Molecular dynamics and numerical modeling
+- [Variational Quantum Eigensolver (VQE)](https://github.com/Ata-Azizi/variational-quantum-eigensolver-qiskit) — Two-qubit Hamiltonian simulation, variational optimization, and noise analysis using Qiskit.
+- [Quantum Entanglement and Noise Analysis](https://github.com/Ata-Azizi/quantum-entanglement-noise-qiskit) — Bell-state simulations, quantum noise channels, fidelity, purity, and concurrence.
+- [Quantum Communication](https://github.com/Ata-Azizi/quantum-communication-qiskit) — Quantum teleportation and superdense coding using Qiskit.
 
-More quantum computing projects are being developed and documented.
+**Computational Physics**
+
+- [Semiclassical and Stochastic Vacuum Decay](https://github.com/Ata-Azizi/semi-classical-and-stochastic-comparison-thesis) — MSc thesis research comparing semiclassical and stochastic approaches to false vacuum decay.
+- [Molecular Dynamics](https://github.com/Ata-Azizi/molecular-dynamics) — Lennard-Jones particle simulations using periodic boundary conditions and Velocity Verlet integration.
+- [Ising Model](https://github.com/Ata-Azizi/ising-model) — Monte Carlo simulation of spin systems using the Metropolis algorithm.
 
 ### Contact
 
