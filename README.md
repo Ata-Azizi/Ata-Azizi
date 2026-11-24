@@ -1,47 +1,37 @@
 # Hi, I'm Ata Azizi Seraji
 
-**Theoretical Physicist | Quantum Computing | Scientific Computing**
+**Theoretical Physicist | Quantum Computing | Photonic Quantum Architectures | Scientific Computing**
 
-I'm a theoretical physicist with an MSc in Theoretical Physics from the University of Göttingen, Germany, specializing in numerical methods, quantum physics, and computational modeling.
+I'm a physicist with an M.Sc. in Physics from the University of Göttingen, Germany, with a background in theoretical physics, numerical methods, and computational modeling.
 
-My research focused on false vacuum decay using semiclassical and stochastic approaches, combining analytical techniques with numerical simulations.
+My master's research focused on false vacuum decay using semiclassical and stochastic approaches, combining analytical methods with numerical simulations.
 
-I'm currently expanding my work in quantum computing, particularly quantum algorithms, variational quantum optimization, quantum simulation, and noise modeling.
+My recent work focuses on **photonic quantum computing**, particularly graph-state architectures, fusion-based quantum computing, resource optimization, quantum noise, and error correction. I develop numerical models to study how physical imperfections and hardware constraints affect quantum-state preparation and computational resources.
 
-### Technical Skills
+## Technical Skills
 
-- **Programming:** Python, NumPy, SciPy, Matplotlib
-- **Quantum Computing:** Qiskit, quantum circuits, quantum algorithms, VQE, quantum optimization, quantum noise simulation, entanglement characterization
-- **Scientific Computing:** Numerical linear algebra, differential equations, Monte Carlo methods, optimization
-- **HPC:** Linux, SLURM, parallel computing
-- **Tools:** Git, GitHub, Jupyter Notebook, VS Code
+- **Programming & Scientific Computing:** Python, NumPy, SciPy, Matplotlib, NetworkX, numerical linear algebra, Monte Carlo methods, numerical optimization
+- **Quantum Computing:** Qiskit, quantum circuits, graph states, stabilizer formalism, measurement-based quantum computing (MBQC), fusion-based quantum computing (FBQC)
+- **Quantum Error Correction:** Syndrome decoding, minimum-weight perfect matching (MWPM), quantum noise modeling, detector graphs, Stim, PyMatching
+- **Photonic Quantum Computing:** Photon-loss modeling, heralded measurements, temporal multiplexing, optical resource allocation, Perceval
+- **High-Performance Computing:** Linux, SLURM, parallel computing, scientific simulations
+- **Development Tools:** Git, GitHub, Jupyter Notebook, VS Code
 
-### Research Interests
+## Research Interests
 
-- Quantum algorithms and variational quantum computing
-- Quantum simulation and optimization
-- Quantum noise, error mitigation, and error correction
-- High-performance scientific computing
-- Computational quantum physics
+- Photonic quantum computing and quantum architectures
+- Measurement-based and fusion-based quantum computing
+- Quantum error correction and fault-tolerant quantum computing
+- Quantum noise, decoherence, and error mitigation
+- Quantum simulation, algorithms, and optimization
+- Numerical methods and high-performance scientific computing
 
-### Selected Projects
+## Contact
 
-**Quantum Computing**
-
-- [Variational Quantum Eigensolver (VQE)](https://github.com/Ata-Azizi/variational-quantum-eigensolver-qiskit) — Two-qubit Hamiltonian simulation, variational optimization, and noise analysis using Qiskit.
-- [Quantum Entanglement and Noise Analysis](https://github.com/Ata-Azizi/quantum-entanglement-noise-qiskit) — Bell-state simulations, quantum noise channels, fidelity, purity, and concurrence.
-- [Quantum Communication](https://github.com/Ata-Azizi/quantum-communication-qiskit) — Quantum teleportation and superdense coding using Qiskit.
-
-**Computational Physics**
-
-- [Semiclassical and Stochastic Vacuum Decay](https://github.com/Ata-Azizi/semi-classical-and-stochastic-comparison-thesis) — MSc thesis research comparing semiclassical and stochastic approaches to false vacuum decay.
-- [Molecular Dynamics](https://github.com/Ata-Azizi/molecular-dynamics) — Lennard-Jones particle simulations using periodic boundary conditions and Velocity Verlet integration.
-- [Ising Model](https://github.com/Ata-Azizi/ising-model) — Monte Carlo simulation of spin systems using the Metropolis algorithm.
-
-### Contact
-
-- **GitHub:** [Ata-Azizi](https://github.com/Ata-Azizi)
+- **Name:** Ata Azizi Seraji
 - **Location:** Göttingen, Germany
+- **GitHub:** [Ata-Azizi](https://github.com/Ata-Azizi)
+- **LinkedIn:** [ata-azizi-seraji](https://www.linkedin.com/in/ata-azizi-seraji/)
 
 <!--
 **Ata-Azizi/Ata-Azizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
